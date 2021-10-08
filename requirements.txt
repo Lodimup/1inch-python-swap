@@ -1,0 +1,4 @@
+aiohttp==3.7.4.post0
+requests==2.26.0
+urllib3==1.26.7
+web3==5.23.1
